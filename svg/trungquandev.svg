@@ -80,12 +80,11 @@
         <div class="earth"></div>
 				<div class="greeting">
           Hi Aliens!<br/>I'm HuyenAnh Dinh from the Earth.
-</div>
-        <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai,anaconda" />
-  </a>
-</p>
+				<p align="left">
+					<a href="https://skillicons.dev">
+						<img src="https://skillicons.dev/icons?i=figma,ps,ai,anaconda" />
+					</a>
+				</p>
 
 	</foreignObject>
 </svg>
