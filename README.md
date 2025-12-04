@@ -33,7 +33,6 @@ I’m currently building my portfolio, exploring the intersection between **desi
 - Productivity & minimalism for creative lifestyle.
 
 ## 🛠 Tech & Tools
-[![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,pr,ai,github,html,css,js)](https://skillicons.dev)
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai,anaconda" />
