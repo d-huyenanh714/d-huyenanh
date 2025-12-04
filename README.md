@@ -48,13 +48,13 @@ I’m currently building my portfolio, exploring the intersection between **desi
     <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,twitter,github,discord" />
   </a>
 </p>
----
 
-<h2 align="center">📑 My Favorites Quote </h2>
+<h2 align="center">📑 My Life Motto </h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
 </a>
+---
 
 Thanks for visiting my profile!  
 Let’s connect, collaborate, and create something meaningful together. 🚀
