@@ -49,7 +49,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
   </a>
 </p>
 
-<h2 align="center">📑 My Life Motto </h2>
+<h2 align="left">📑 My Life Motto </h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
