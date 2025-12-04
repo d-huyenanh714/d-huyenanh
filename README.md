@@ -34,12 +34,17 @@ I’m currently building my portfolio, exploring the intersection between **desi
 
 ## 🛠 Tech & Tools
 [![My Skills](https://skillicons.dev/icons?i=figma,ae,ps,pr,ai,github,html,css,js)](https://skillicons.dev)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,anaconda" />
+  </a>
+</p>
 
 
 ## 👽 Where to find me
 <br>
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,twitter,github,discord" />
   </a>
