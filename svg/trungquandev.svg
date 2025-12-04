@@ -76,16 +76,3 @@
         }
 			</style>
 
-			<div class="container">
-        <div class="earth"></div>
-				<div class="greeting">
-          Hi Aliens!<br/>I'm Trung Quan Dev from the Earth.
-		<p align="left">
-		  <a href="https://skillicons.dev">
-		    <img src="https://skillicons.dev/icons?i=figma,ps,ai,anaconda" />
-		  </a>
-		</p>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
