@@ -64,7 +64,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=git,linkedin,instagram,gmail,twitter,github,discord" />
   </a>
 </p>
 ---
