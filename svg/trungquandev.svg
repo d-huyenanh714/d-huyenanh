@@ -81,40 +81,12 @@
 				<div class="greeting">
           Hi Aliens!<br/>I'm HuyenAnh Dinh from the Earth.
 </div>
-        <div class="skills">
-          <div class="skills_icon">
-            <img
-              src='https://skillicons.dev/icons?i=figma'
-			/> 
-          </div>
-          <div class="skills_icon">
-            <img
-              src='https://skillicons.dev/icons?i=ps'
-			/> 
-          </div>
-          <div class="skills_icon">
-            <img
-              src='https://skillicons.dev/icons?i=ai'
-			/> 
-          </div>
-          <div class="skills_icon nodejs">
-            <img
-              src='https://skillicons.dev/icons?i=anaconda'
-			/> 
-          </div>
-          <div class="skills_icon">
-            <img
-              src='https://skillicons.dev/icons?i=github'
-			/> 
-          </div>
-          <div class="skills_icon">
-            <img
-              src='https://skillicons.dev/icons?i=linkedin'
-			/> 
-          </div>
-        </div>
-			</div>
-		</div>
+        <p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,ps,ai,anaconda" />
+  </a>
+</p>
+
 	</foreignObject>
 </svg>
 
