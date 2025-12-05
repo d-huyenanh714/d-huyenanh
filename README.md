@@ -31,13 +31,22 @@ I’m currently building my portfolio, exploring the intersection between **desi
   </a>
 </p>
 
-
 ## 👽 Where to find me
-<br>
-
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin,instagram,gmail,twitter,github,discord" />
+    <a href="https://web.facebook.com/hyuorhiu04/?locale=vi_VN" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
+  </a>
+    <a href="https://www.instagram.com/hyuorhiu/" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
+  </a>
+  <a href="https://www.behance.net/huyenanhdinh" target="_blank">
+    <img src="https://img.shields.io/badge/behance-%230077B5.svg?&style=for-the-badge&logo=behance&logoColor=white&color=071A2C" alt="Behance"/>
+  </a>
+  <a href="https://github.com/d-huyenanh714/d-huyenanh/tree/main" target="_blank">
+    <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=071A2C" alt="Github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/huyenanh-dinh-a043b7275/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="Linkedin"/>
   </a>
 </p>
 
@@ -46,6 +55,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
 <a href="#" target="_blank">
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
 </a>
+
 
 ---
 
