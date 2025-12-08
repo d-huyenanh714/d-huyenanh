@@ -3,7 +3,6 @@
 </a>
 
 <br>
-<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
 # Hi, I'm HuyenAnh Dinh! 👋 
 
 I’m a senior student majoring in Business Chinese, passionate about technology, UI/UX design, and digital content creation.  
@@ -47,7 +46,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> My motto life
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> My motto life
 <p align="left">
   <a href="#" target="_blank">
     <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="HuyenAnh Dinh" />
