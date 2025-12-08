@@ -47,8 +47,8 @@ I’m currently building my portfolio, exploring the intersection between **desi
   </a>
 </p>
 
-<h2 align="left">🖋️ My Life Motto </h2>
-<br>
+## 👽 Where to find me
+<p align="left">
 <a>
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
 </a>
