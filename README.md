@@ -1,5 +1,3 @@
-<div style="background-color:#000000; color:#FFFFFF; padding:32px; border-radius:16px;">
-
 <a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
@@ -55,8 +53,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
   </a>
 </p>
 
-  ---
+---
 
-  Thanks for visiting my profile!  
-  Let’s connect, collaborate, and create something meaningful together. 🚀
-</div>
+Thanks for visiting my profile!  
+Let’s connect, collaborate, and create something meaningful together. 🚀
