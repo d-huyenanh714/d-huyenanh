@@ -47,7 +47,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
   </a>
 </p>
 
-## 👽 Where to find me
+## 👽 My motto life
 <p align="left">
 <a>
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
