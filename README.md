@@ -4,8 +4,6 @@
 
 <br>
 
-<br>
-
 # Hi, I'm HuyenAnh Dinh! 👋
 
 I’m a senior student majoring in Business Chinese, passionate about technology, UI/UX design, and digital content creation.  
@@ -54,7 +52,6 @@ I’m currently building my portfolio, exploring the intersection between **desi
 <a>
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
 </a>
-
 
 ---
 
