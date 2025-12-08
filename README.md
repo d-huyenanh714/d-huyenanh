@@ -1,4 +1,4 @@
-<a>
+<a href="#" target="_blank">
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
@@ -49,8 +49,8 @@ I’m currently building my portfolio, exploring the intersection between **desi
 
 ## ✨ My motto life
 <p align="left">
-  <a>
-    <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
+  <a href="#" target="_blank">
+    <img src="svg/trungquandev-quotes.svg" width="846" height="150" alt="HuyenAnh Dinh" />
   </a>
 </p>
 
