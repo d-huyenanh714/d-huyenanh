@@ -1,4 +1,4 @@
-<a href="#" target="_blank">
+<a>
   <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
 </a>
 
@@ -51,7 +51,7 @@ I’m currently building my portfolio, exploring the intersection between **desi
 
 <h2 align="left">🖋️ My Life Motto </h2>
 <br>
-<a href="#" target="_blank">
+<a>
   <img src="svg/trungquandev-quotes.svg" width="846" height="1200" alt="HuyenAnh Dinh" />
 </a>
 
